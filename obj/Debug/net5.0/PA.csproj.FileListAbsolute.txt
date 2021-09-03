@@ -1,0 +1,16 @@
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.csprojAssemblyReference.cache
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.AssemblyInfoInputs.cache
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.AssemblyInfo.cs
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.csproj.CoreCompileInputs.cache
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.exe
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.deps.json
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.runtimeconfig.json
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.runtimeconfig.dev.json
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.dll
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\ref\PA.dll
+C:\Users\thayl\Desktop\PA\bin\Debug\net5.0\PA.pdb
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.dll
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\ref\PA.dll
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.pdb
+C:\Users\thayl\Desktop\PA\obj\Debug\net5.0\PA.genruntimeconfig.cache
